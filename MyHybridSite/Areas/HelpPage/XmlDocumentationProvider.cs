@@ -7,8 +7,6 @@ using System.Web.Http.Description;
 using System.Xml.XPath;
 using MyHybridSite.Areas.HelpPage.ModelDescriptions;
 
-//comentario
-
 namespace MyHybridSite.Areas.HelpPage
 {
     /// <summary>
